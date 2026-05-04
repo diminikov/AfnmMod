@@ -1,9 +1,9 @@
 {
-  "name": "my-afnm-mod",
+  "name": "diminikov-afnm-mod",
   "version": "0.0.1",
   "description": "A mod for AFNM",
   "author": {
-    "name": "<your name>"
+    "name": "diminikov"
   },
   "main": "dist/mod.js",
   "scripts": {
